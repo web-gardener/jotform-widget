@@ -13,6 +13,7 @@ You can create a seating plan on 'Edit Page', and preview on the 'Preview Page'.
 
 ## Use cases on the forms
 
+
 ### [Restaurant Reservation Form](https://form.jotform.com/212303222198042)
 
 <img alt="Restaurant-Reservation-Form" src=".github/images/jf-with-edit-panel.png" />
