@@ -6,6 +6,7 @@ Seating Plan allows JotForm users to create a plan for seat-based registration e
 
 You can create a seating plan on 'Edit Page', and preview on the 'Preview Page'.
 
+
 - Edit Page: https://jotform-widget.netlify.app/edit
 - Preview Page: https://jotform-widget.netlify.app/
 - Example Reservation Details: https://jotform-widget.netlify.app/reservation?uid=212303313933040&id=-MhYZdt3Jj1vfsd36ahk
